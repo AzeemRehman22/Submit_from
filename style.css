@@ -1,0 +1,70 @@
+#header{
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+form{
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+h3{
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    color: purple;
+
+}
+
+
+table{
+    
+    height: 50%;
+    text-align: left;
+    vertical-align: bottom;
+    background-color: purple;
+}
+tr:hover{
+background-color:whitesmoke;
+}
+tr:nth-child(even){
+    background-color: purple;
+}
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    border-radius: 50%;
+    margin-top: 10%;
+    
+}
+
+
+#TY{
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    color: green;
+    
+}
+#YS{
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+
+}
+#goback{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6%;
+    
+}
+a{
+    border-radius: 1px;
+}
+#button{
+    margin: auto;
+    width: 320%;
+    
